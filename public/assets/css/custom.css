@@ -1,0 +1,39 @@
+.display-inline-block{
+    display: inline-block;
+}
+.float-right{
+    float: right;
+}
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+.record-not-found{
+    text-align: center;
+    color: red !important;
+}
+.margin-top-negative-4{
+    margin-top: -4px;
+}
+.hide{
+    display: none;
+}
+.required{
+    color: red;
+}
+.width-95-percent{
+    width:95%;
+}
+.width-100-percent{
+    width:100%;
+}
+.color-white{
+    color: #fff;
+}
+
+.color-white,
+.color-white:hover,
+.color-white:focus,
+.color-white:active {
+    color: #fff;
+    text-decoration: none;
+}
